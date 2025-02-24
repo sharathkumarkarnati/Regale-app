@@ -1,2 +1,2 @@
 # Regale-app
-The Recipe App --- https://regalerecipeapp-sharath.netlify.app/
+The Recipe App ---  https://regalerecipe.netlify.app/
